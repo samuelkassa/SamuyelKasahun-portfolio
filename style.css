@@ -1,3 +1,4 @@
+ls
 body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -12,7 +13,7 @@ body {
   margin-top:-1cm;
   padding-top: 2cm;
   padding-bottom: 2cm;
-  height: 5mm;
+  height: 9mm;
  }
 
 .topmenu {
@@ -44,6 +45,7 @@ body {
 .profile_name .contact_info {
   font-size: 15px;
   font-style: italic;
+  font-weight: bolder;
   display: flex;
   align-items: center;
   flex-direction: row;
@@ -94,7 +96,7 @@ h2 {
 }
 
 #about-me h1 {
-  font-size: 65px;
+  font-size: 40px;
   margin-top: 90px;
   color: #7600bc;
 }
